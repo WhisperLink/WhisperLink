@@ -15,9 +15,9 @@ Security-focused developer interested in **fuzzing, reverse engineering, and CTF
 ## Featured Projects
 | Repo | Description |
 |---|---|
-| [Fuzzer](https://github.com/WhisperLink/Fuzzer) | Custom fuzzing tool |
-| [Program](https://github.com/WhisperLink/Program) | PE header viewer & Base64 encode/decode utilities |
-| [Data-Structure](https://github.com/WhisperLink/Data-Structure) | Linked list implementations in C |
-| [Reversing-Project](https://github.com/WhisperLink/Reversing-Project) | Binary reversing exercises |
-| [CTF](https://github.com/WhisperLink/CTF) | CTF write-ups & solutions |
-| [Defi-Security-Research](https://github.com/WhisperLink/Defi-Security-Research) | Smart contract security research |
+| [Fuzzer](https://github.com/Kyenghwan-Hwang/Fuzzer) | Custom fuzzing tool |
+| [Program](https://github.com/Kyenghwan-Hwang/Program) | PE header viewer & Base64 encode/decode utilities |
+| [Data-Structure](https://github.com/Kyenghwan-Hwang/Data-Structure) | Linked list implementations in C |
+| [Reversing-Project](https://github.com/Kyenghwan-Hwang/Reversing-Project) | Binary reversing exercises |
+| [CTF](https://github.com/Kyenghwan-Hwang/CTF) | CTF write-ups & solutions |
+| [Defi-Security-Research](https://github.com/Kyenghwan-Hwang/Defi-Security-Research) | Smart contract security research |
