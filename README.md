@@ -22,6 +22,3 @@ Security-focused developer interested in **fuzzing, reverse engineering, and CTF
 
 ## Contact
 Feel free to reach out via GitHub Issues or Discussions on my repositories.
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhisperLink&show_icons=true&theme=default)
