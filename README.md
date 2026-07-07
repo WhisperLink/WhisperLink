@@ -21,9 +21,3 @@ Security-focused developer interested in **fuzzing, reverse engineering, and CTF
 | [Reversing-Project](https://github.com/WhisperLink/Reversing-Project) | Binary reversing exercises |
 | [CTF](https://github.com/WhisperLink/CTF) | CTF write-ups & solutions |
 | [Defi-Security-Research](https://github.com/WhisperLink/Defi-Security-Research) | Smart contract security research |
-
-## Contact
-- Team Blog: [teamwebula.github.io](https://teamwebula.github.io)
-- Blog: [securioty99.tistory.com](https://securioty99.tistory.com)
-- Email: obnred@gmail.com
-- LinkedIn: [kyenghwan-hwang-a4b323298](https://linkedin.com/in/kyenghwan-hwang-a4b323298)
