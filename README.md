@@ -1,6 +1,6 @@
 Security-focused developer interested in **fuzzing, reverse engineering, and CTF challenges**, with growing experience in **DeFi/smart contract security research**.
 
-## What I Work On
+## Summary
 - **Vulnerability Research** - fuzzing tools and crash triage (`Fuzzer`)
 - **Reverse Engineering** - binary analysis and CTF reversing challenges (`Reversing-Project`, `CTF`)
 - **Systems Programming** - data structures & core algorithms in C (`Data-Structure`)
